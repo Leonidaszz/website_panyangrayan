@@ -1,0 +1,496 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.7rem;
+}.drop-pilih-no-meja-mA1 {
+  box-sizing: border-box;
+  padding: 2rem 14.3rem 40.7rem 13.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #7b61ff;
+  border-radius: 0.5rem;
+}
+.drop-pilih-no-meja-mA1 .property-1default-U4R {
+  margin: 0rem 0.1rem 1.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 14.9rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1default-U4R .huge-tab-Zbf {
+  width: 14.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1default-U4R .huge-tab-Zbf .name-vBK {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1default-U4R .huge-tab-Zbf .name-vBK .auto-group-ggsb-feh {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1default-U4R .huge-tab-Zbf .name-vBK .polygon-MnR {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1default-U4R .huge-tab-Zbf .underline-tGZ {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1default-U4R .huge-tab-Zbf .underline-tGZ .underline-2df {
+  width: 19.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs {
+  width: 100%;
+  height: 15.7rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .huge-tab-Kcm {
+  width: 14.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .huge-tab-Kcm .name-FmK {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .huge-tab-Kcm .name-FmK .auto-group-mmnq-p3j {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .huge-tab-Kcm .name-FmK .polygon-WSM {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .huge-tab-Kcm .underline-eYZ {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .huge-tab-Kcm .underline-eYZ .underline-CKB {
+  width: 19.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB {
+  box-sizing: border-box;
+  padding: 1.2rem 1.2rem 0rem 1.2rem;
+  width: 21.8rem;
+  height: 50.7rem;
+  position: absolute;
+  left: -0.6rem;
+  top: 3.4rem;
+  border: solid 0.3rem #000000;
+  background-color: #ffffff;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-eBB {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-eBB .tab-name-yjF {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-eBB .underline-7qT {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-eBB .underline-7qT .underline-fry {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjs {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjs .tab-name-y6y {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjs .underline-Wsb {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjs .underline-Wsb .underline-si9 {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-RUm {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-RUm .tab-name-ZL5 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-RUm .underline-uPw {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-RUm .underline-uPw .underline-Suf {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-bnZ {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-bnZ .tab-name-Yho {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-bnZ .underline-Vsw {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-bnZ .underline-Vsw .underline-rTb {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-Qk1 {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-Qk1 .tab-name-xWd {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-Qk1 .underline-WY9 {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-Qk1 .underline-WY9 .underline-fR3 {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-cr5 {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-cr5 .tab-name-xuw {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-cr5 .underline-WwT {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-cr5 .underline-WwT .underline-G9w {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-1dK {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-1dK .tab-name-MhB {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-1dK .underline-7RT {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-1dK .underline-7RT .underline-rtq {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pKs {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 18.3rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pKs .tab-name-Mqb {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pKs .underline-K1j {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pKs .underline-K1j .underline-4k1 {
+  width: 20.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjB {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjB .tab-name-B3w {
+  margin-right: 0.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjB .underline-W6D {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-pjB .underline-W6D .underline-rvm {
+  width: 21.9rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-npR {
+  box-sizing: border-box;
+  padding: 3.4rem 1.6rem 0.8rem 1.6rem;
+  width: 3.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-npR .underline-v9w {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-npR .underline-v9w .underline-USM {
+  width: 5.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-coT {
+  box-sizing: border-box;
+  padding: 3.4rem 1.6rem 0.8rem 1.6rem;
+  width: 3.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-coT .underline-9oP {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.drop-pilih-no-meja-mA1 .property-1variant2-Ajs .company-LwB .minimal-tab-coT .underline-9oP .underline-ibb {
+  width: 5.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}

@@ -1,0 +1,661 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menu-bukti-booking-meja-kafe--WCR {
+  width: 100%;
+  height: 150.5rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #e4e4e4;
+}
+.menu-bukti-booking-meja-kafe--WCR .bukti-booking-meja-kafe-BpM {
+  width: 47.8rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 48.1rem;
+  top: 17.4rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #2e3a59;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-219-eT3 {
+  box-sizing: border-box;
+  padding: 2.175rem 2.5rem 2.9rem 2.5rem;
+  width: 50rem;
+  height: 13rem;
+  position: absolute;
+  left: 47rem;
+  top: 115.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #8adf48;
+  border-radius: 3rem;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-219-eT3 .apakah-anda-ingin-booking-meja-kafe-kembali--XWq {
+  margin: 0rem 0rem 2.405rem 0.078rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-219-eT3 .auto-group-bvbf-waZ {
+  margin-bottom: 1.6207rem;
+  box-sizing: border-box;
+  padding: 0rem 22.4rem 0rem 22.545rem;
+  width: 100%;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-219-eT3 .auto-group-bvbf-waZ .line-16-T37 {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-219-eT3 .auto-group-frau-CFb {
+  margin: 0rem 7rem 0rem 3.65rem;
+  width: calc(100% - 10.65rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-219-eT3 .auto-group-frau-CFb .ya-Kr1 {
+  margin-right: 16.25rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-219-eT3 .auto-group-frau-CFb .tidak-bYd {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 {
+  width: 56.2rem;
+  height: 80rem;
+  position: absolute;
+  left: 43.9rem;
+  top: 28.7rem;
+  background-color: #ffffff;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .kecamatan-sukaraja-kabupaten-tasikmalaya-jawa-barat-Dpu {
+  width: 42.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 6.7477rem;
+  top: 7.6552rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .bukit-panyangrayan-fB7 {
+  width: 25.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 15.3523rem;
+  top: 3.4885rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-lnim-YVo {
+  width: 44.9408rem;
+  height: 1.9495rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 16.8505rem;
+  display: flex;
+  align-items: center;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-lnim-YVo .tanggal-Sr5 {
+  margin: 0.049rem 21.797rem 0rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-lnim-YVo .jan-2023-MTF {
+  margin: 0rem 2.544rem 0.049rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-lnim-YVo .item-14-30-45-SUh {
+  margin-bottom: 0.0495rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-yy5f-MrZ {
+  width: 44.9896rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.3rem;
+  display: flex;
+  align-items: center;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-yy5f-MrZ .jenis-pembayaran-harga-tiket-biaya-layanan-tbb {
+  margin-right: 23.9896rem;
+  max-width: 13.6rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-yy5f-MrZ .dana-rp-15000-rp-1000-bF7 {
+  max-width: 7.4rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .tunjukan-struk-booking-meja-kafe-ini-saat-memasuki-objek-wisata-bukit-panyangrayan-7DT {
+  width: 44rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 65.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .terima-kasih-LM7 {
+  width: 18.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 18.9287rem;
+  top: 72.2rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-zgxt-CPK {
+  width: 44.8701rem;
+  height: 2.1196rem;
+  position: absolute;
+  left: 5.6931rem;
+  top: 59.4rem;
+  display: flex;
+  align-items: center;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-zgxt-CPK .total-uoX {
+  margin: 0.22rem 32.37rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-zgxt-CPK .rp-16000-EL1 {
+  margin-bottom: 0.2196rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-m6df-MvR {
+  width: 44.8735rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 20.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-m6df-MvR .kode-booking-meja-kafe-JKs {
+  margin-right: 20.2735rem;
+  max-width: 14rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-m6df-MvR .item-053759437465-DBw {
+  margin-top: 0.4184rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .line-12-L1f {
+  width: 45rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.4678rem;
+  top: 27.2299rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .line-13-U7s {
+  width: 45rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.4678rem;
+  top: 46.1264rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .line-14-bCV {
+  width: 45rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.4678rem;
+  top: 57.1793rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-8e4y-9E1 {
+  width: 45rem;
+  height: 11rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 28.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-8e4y-9E1 .nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-fCM {
+  margin-right: 7rem;
+  max-width: 19.8rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-218-JT3 .auto-group-8e4y-9E1 .anthonio-asep-jackson-anthoniogmailcom-085727987332-30-01-2023-3-Auo {
+  max-width: 18.2rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy {
+  box-sizing: border-box;
+  padding: 2.4rem 38.1rem 1rem 56.87rem;
+  width: 145.2rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.62deg, #5fc789 41.36%, #8adf48 83.59%);
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .rectangle-99-meh {
+  margin: 0rem 0.563rem 0.536rem 0rem;
+  width: 8.0667rem;
+  height: 2.2353rem;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .enterprise-default-hHT {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .enterprise-default-hHT .huge-tab-ByK {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .enterprise-default-hHT .huge-tab-ByK .name-Yos {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .enterprise-default-hHT .huge-tab-ByK .name-Yos .auto-group-srnv-K3w {
+  margin-right: 6.3rem;
+  width: 5.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .enterprise-default-hHT .huge-tab-ByK .underline-ojo {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 5.4rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .enterprise-default-hHT .huge-tab-ByK .underline-ojo .underline-MWR {
+  width: 11.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-jelajahi-6D7 {
+  margin: 0.1rem 4.9rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.8rem 1.6rem;
+  width: 10.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-jelajahi-6D7 .huge-tab-o7X {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-jelajahi-6D7 .huge-tab-o7X .name-K5s {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-jelajahi-6D7 .huge-tab-o7X .name-K5s .auto-group-hhfp-UUZ {
+  margin-right: 0.8rem;
+  width: 6.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-jelajahi-6D7 .huge-tab-o7X .name-K5s .polygon-yAR {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-jelajahi-6D7 .huge-tab-o7X .underline-7XX {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-jelajahi-6D7 .huge-tab-o7X .underline-7XX .underline-rED {
+  width: 14.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-reservasi-LfB {
+  margin-top: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.8rem 0.8rem 1.6rem;
+  width: 12.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-reservasi-LfB .huge-tab-4r5 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-reservasi-LfB .huge-tab-4r5 .name-2H7 {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-reservasi-LfB .huge-tab-4r5 .name-2H7 .auto-group-mbrt-yy3 {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #eeeeee;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-reservasi-LfB .huge-tab-4r5 .name-2H7 .polygon-soX {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-reservasi-LfB .huge-tab-4r5 .underline-2RX {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .group-178-5Wy .drop-reservasi-LfB .huge-tab-4r5 .underline-2RX .underline-LSD {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-rQZ {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.8rem;
+  top: 2.3rem;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-rQZ .huge-tab-L4q {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-rQZ .huge-tab-L4q .name-5HK {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-rQZ .huge-tab-L4q .name-5HK .auto-group-lvxt-dJq {
+  margin-right: 2.9rem;
+  width: 8.8rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-rQZ .huge-tab-L4q .underline-hpV {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 8.8rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-rQZ .huge-tab-L4q .underline-hpV .underline-qA1 {
+  width: 14.5rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-wiq {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125rem;
+  top: 2.3rem;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-wiq .huge-tab-f93 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-wiq .huge-tab-f93 .name-pGq {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-wiq .huge-tab-f93 .name-pGq .auto-group-8npz-yfX {
+  margin-right: 6.8rem;
+  width: 4.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-wiq .huge-tab-f93 .underline-VNy {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 4.9rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-bukti-booking-meja-kafe--WCR .enterprise-default-wiq .huge-tab-f93 .underline-VNy .underline-9iR {
+  width: 10.6rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-bukti-booking-meja-kafe--WCR .desain-tanpa-judul202310110538060000-1-1-hjw {
+  width: 13.5rem;
+  height: 8.4rem;
+  position: relative;
+  left: 6.7rem;
+  top: 0;
+  background-size: 147.154% 222.727%;
+  background-position: -3.622rem -5.1545rem;
+  background-image: url('../assets/desain-tanpa-judul202310110538060000-1-1-AmP.png');
+}

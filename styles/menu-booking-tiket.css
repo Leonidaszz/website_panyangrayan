@@ -1,0 +1,598 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menu-booking-tiket-ktR {
+  width: 100%;
+  height: 111.7rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #e4e4e4;
+}
+.menu-booking-tiket-ktR .line-1-sy3 {
+  width: 144rem;
+  height: 0.05rem;
+  position: absolute;
+  left: 0;
+  top: 31.6rem;
+  background-color: rgba(0, 0, 0, 0.400000006);
+}
+.menu-booking-tiket-ktR .group-151-bu3 {
+  width: 43.9rem;
+  height: 128.3rem;
+  position: absolute;
+  left: 50rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.menu-booking-tiket-ktR .group-151-bu3 .group-150-jEZ {
+  margin-right: 2.7rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-151-bu3 .group-150-jEZ .ellipse-6-UT3 {
+  margin: 0rem 1.8rem 108.3rem 0rem;
+  width: 12.5rem;
+  height: 12.5rem;
+  background-color: rgba(214, 173, 96, 0.6000000238);
+  border-radius: 6.25rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-151-bu3 .group-150-jEZ .booking-1-nTj {
+  width: 7.5rem;
+  height: 7.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-151-bu3 .booking-tiket-KTf {
+  margin-bottom: 1.8rem;
+  text-align: right;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #2e3a59;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 {
+  box-sizing: border-box;
+  padding: 2.527rem 22rem 20.3rem 22rem;
+  width: 144rem;
+  height: 69.1rem;
+  position: absolute;
+  left: 0;
+  top: 42.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w {
+  margin-bottom: 13.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-22-s7o {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.9rem 75.3rem 0.9rem 3.9rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #5fc789;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-22-s7o .nama-PM3 {
+  margin-right: 14.3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-22-s7o .item--uqB {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-23-Dqs {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.9rem 75.3rem 0.9rem 3.9rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #5fc789;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-23-Dqs .email-9Dj {
+  margin-right: 14.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-23-Dqs .item--fC5 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-24-a49 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.9rem 75.3rem 0.9rem 3.9rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #5fc789;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-24-a49 .no-hp-gss {
+  margin-right: 14rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-24-a49 .item--Dcu {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-25-k73 {
+  margin-bottom: 1.9729rem;
+  box-sizing: border-box;
+  padding: 0.9rem 75.3rem 0.9rem 3.9rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #5fc789;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-25-k73 .tanggal-kunjungan-gFb {
+  margin-right: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-25-k73 .item--c9F {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-28-8dP {
+  box-sizing: border-box;
+  padding: 0.9rem 75.3rem 0.9rem 3.9rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #5fc789;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-28-8dP .jumlah-tiket-GDo {
+  margin-right: 7.9rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-225-X3w .component-28-8dP .item--bG5 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-68-QUR {
+  margin: 0 25rem;
+  width: calc(100% - 50rem);
+  height: 5rem;
+  cursor: pointer;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-68-QUR .group-63-M8m {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.7rem;
+}
+.menu-booking-tiket-ktR .auto-group-nv8z-2N5 .group-68-QUR .group-63-M8m .group-62-77w {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5fc789;
+  border-radius: 0.7rem;
+}
+.menu-booking-tiket-ktR .isi-data-dengan-benar-9aR {
+  width: 27.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 58.4258rem;
+  top: 39.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-booking-tiket-ktR .group-178-rDw {
+  box-sizing: border-box;
+  padding: 2.4rem 38.1rem 1rem 56.87rem;
+  width: 145.2rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.62deg, #5fc789 41.36%, #8adf48 83.59%);
+}
+.menu-booking-tiket-ktR .group-178-rDw .rectangle-99-YcZ {
+  margin: 0rem 0.563rem 0.536rem 0rem;
+  width: 8.0667rem;
+  height: 2.2353rem;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .enterprise-default-rt9 {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .enterprise-default-rt9 .huge-tab-NLh {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-tiket-ktR .group-178-rDw .enterprise-default-rt9 .huge-tab-NLh .name-jBF {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .enterprise-default-rt9 .huge-tab-NLh .name-jBF .auto-group-a2ft-HyT {
+  margin-right: 6.3rem;
+  width: 5.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-booking-tiket-ktR .group-178-rDw .enterprise-default-rt9 .huge-tab-NLh .underline-9Ey {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 5.4rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .enterprise-default-rt9 .huge-tab-NLh .underline-9Ey .underline-Hc5 {
+  width: 11.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-jelajahi-dA9 {
+  margin: 0.1rem 4.9rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.8rem 1.6rem;
+  width: 10.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-jelajahi-dA9 .huge-tab-jDB {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-jelajahi-dA9 .huge-tab-jDB .name-VTF {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-jelajahi-dA9 .huge-tab-jDB .name-VTF .auto-group-tekh-T9B {
+  margin-right: 0.8rem;
+  width: 6.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-jelajahi-dA9 .huge-tab-jDB .name-VTF .polygon-AZP {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-jelajahi-dA9 .huge-tab-jDB .underline-Jfb {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-jelajahi-dA9 .huge-tab-jDB .underline-Jfb .underline-ejT {
+  width: 14.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-reservasi-oMT {
+  margin-top: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.8rem 0.8rem 1.6rem;
+  width: 12.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-reservasi-oMT .huge-tab-KKo {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-reservasi-oMT .huge-tab-KKo .name-gRF {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-reservasi-oMT .huge-tab-KKo .name-gRF .auto-group-gwzh-qow {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #eeeeee;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-reservasi-oMT .huge-tab-KKo .name-gRF .polygon-MnH {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-reservasi-oMT .huge-tab-KKo .underline-W9P {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .group-178-rDw .drop-reservasi-oMT .huge-tab-KKo .underline-W9P .underline-rj3 {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-tiket-ktR .enterprise-default-NhP {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.8rem;
+  top: 2.3rem;
+}
+.menu-booking-tiket-ktR .enterprise-default-NhP .huge-tab-HZT {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-tiket-ktR .enterprise-default-NhP .huge-tab-HZT .name-cbj {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .enterprise-default-NhP .huge-tab-HZT .name-cbj .auto-group-qwgr-At9 {
+  margin-right: 2.9rem;
+  width: 8.8rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-booking-tiket-ktR .enterprise-default-NhP .huge-tab-HZT .underline-HC5 {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 8.8rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .enterprise-default-NhP .huge-tab-HZT .underline-HC5 .underline-1ds {
+  width: 14.5rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-tiket-ktR .enterprise-default-krM {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125rem;
+  top: 2.3rem;
+}
+.menu-booking-tiket-ktR .enterprise-default-krM .huge-tab-UXT {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-tiket-ktR .enterprise-default-krM .huge-tab-UXT .name-eB3 {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .enterprise-default-krM .huge-tab-UXT .name-eB3 .auto-group-sqwu-1XP {
+  margin-right: 6.8rem;
+  width: 4.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-booking-tiket-ktR .enterprise-default-krM .huge-tab-UXT .underline-KHB {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 4.9rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-tiket-ktR .enterprise-default-krM .huge-tab-UXT .underline-KHB .underline-rY1 {
+  width: 10.6rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-tiket-ktR .desain-tanpa-judul202310110538060000-1-1-1A1 {
+  width: 13.5rem;
+  height: 8.4rem;
+  position: relative;
+  left: 6.7rem;
+  top: 0;
+  background-size: 147.154% 222.727%;
+  background-position: -3.622rem -5.1545rem;
+  background-image: url('../assets/desain-tanpa-judul202310110538060000-1-1-fWH.png');
+}

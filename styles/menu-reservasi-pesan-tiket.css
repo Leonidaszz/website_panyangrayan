@@ -1,0 +1,813 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menu-reservasi-pesan-tiket-FMb {
+  width: 100%;
+  height: 137.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #e4e4e4;
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h {
+  box-sizing: border-box;
+  padding: 15rem 12rem 12.2rem 11.1rem;
+  width: 144rem;
+  height: 95.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h .group-93-TiZ {
+  margin: 0rem 0rem 8.1rem 0.9rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-45-bg.png');
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h .group-93-TiZ .rectangle-45-ziV {
+  width: 120rem;
+  height: 30rem;
+  position: relative;
+  background-size: 103.195% 228.186%;
+  background-position: -0.4346rem -12.2559rem;
+  background-image: url('../assets/rectangle-45.png');
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h .booking-tiket-SqP {
+  margin: 0rem 0rem 2.6rem 0.9rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h .di-bukit-panyangrayan-kami-telah-menyediakan-fitur-booking-tiket-online-untuk-kenyamanan-anda-booking-tiket-anda-dengan-mudah-dan-kunjungi-bukit-ini-tanpa-harus-antre-atau-khawatir-tiket-habis-nikmati-pengalaman-kunjungan-yang-lebih-praktis-dan-lancar-di-bukit-panyangrayan-dengan-booking-tiket-online-harga-rp-5000-tiket-MSZ {
+  margin: 0rem 0rem 8.7rem 0.9rem;
+  max-width: 114.9rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h .auto-group-e3hk-8rd {
+  margin-right: 78.3rem;
+  width: calc(100% - 78.3rem);
+  height: 4.6rem;
+  display: flex;
+  align-items: center;
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h .auto-group-e3hk-8rd .auto-group-wzvz-frZ {
+  margin-right: 2.1rem;
+  width: 17rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d6ad60;
+  border-radius: 2rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .auto-group-ytm3-y2h .auto-group-e3hk-8rd .atau-mau-reservasi-meja-kafe-fk5 {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV {
+  width: 144.3rem;
+  height: 42rem;
+  position: absolute;
+  left: 0;
+  top: 95.9rem;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .rectangle-29-5oo {
+  width: 144.3rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #378635;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .line-11-RMs {
+  width: 130rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7rem;
+  top: 19.9rem;
+  background-color: #ffffff;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .instagram-4-1-YxH {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .facebook-3-1-GdP {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .area-kafe-Cmw {
+  width: 6.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66rem;
+  top: 30.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .area-keluarga-tuf {
+  width: 10rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66rem;
+  top: 27.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .area-foto-BnH {
+  width: 6.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66rem;
+  top: 32.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .camping-ground-tRo {
+  width: 12.2rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66rem;
+  top: 35.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .booking-tiket-o2y {
+  width: 9.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 95.2rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .booking-kafe-urh {
+  width: 9.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95.2rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .foto-R4M {
+  width: 3.2rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 83.7rem;
+  top: 27.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .video-8jT {
+  width: 4.1rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 83.7rem;
+  top: 30.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .berita-TFw {
+  width: 4.3rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.4rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .event-mXX {
+  width: 4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.4rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .hotel-5YD {
+  width: 3.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.2rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .restoran-BbF {
+  width: 6.5rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.2rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .wisata-5gd {
+  width: 4.8rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.2rem;
+  top: 32.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .whatsapp-2-1-zHo {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb {
+  box-sizing: border-box;
+  padding-left: 0.187rem;
+  width: 47.0796rem;
+  height: 10.2167rem;
+  position: absolute;
+  left: 7rem;
+  top: 25.4rem;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-gabb-e7T {
+  margin-bottom: 1.202rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-gabb-e7T .pin-Bt5 {
+  margin-right: 1.5618rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-gabb-e7T .kecamatan-sukaraja-kabupaten-tasikmalaya-jawa-barat-46183-v4y {
+  margin-bottom: 0.0399rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-ywwm-cTb {
+  margin: 0rem 18.68rem 1.202rem 0rem;
+  width: calc(100% - 18.6796rem);
+  display: flex;
+  align-items: flex-end;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-ywwm-cTb .email-XqT {
+  margin-right: 1.5822rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-ywwm-cTb .akbarsaepulrizal120404gmailcom-56H {
+  margin-bottom: 0.1105rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-prq7-Nr5 {
+  margin-right: 31rem;
+  width: calc(100% - 31rem);
+  display: flex;
+  align-items: center;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-prq7-Nr5 .phone-call-1-KmK {
+  margin-right: 1.5618rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .group-32-ijb .auto-group-prq7-Nr5 .item-62-81510941558-fKP {
+  margin-bottom: 0.2493rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .jelajahi-bukit-ZvZ {
+  width: 10.2rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.1rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .galeri-Gpy {
+  width: 4.6rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 83.7rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .rekomendasi-aam {
+  width: 10.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.2rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .desain-tanpa-judul202310110538060000-1-1-5nR {
+  width: 26.8rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .informasi-Cc9 {
+  width: 7.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.4rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-210-NeV .reservasi-uWZ {
+  width: 7.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 95.2rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF {
+  box-sizing: border-box;
+  padding: 2.4rem 38.1rem 1rem 56.87rem;
+  width: 145.2rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.62deg, #5fc789 41.36%, #8adf48 83.59%);
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .rectangle-99-88R {
+  margin: 0rem 0.563rem 0.536rem 0rem;
+  width: 8.0667rem;
+  height: 2.2353rem;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .enterprise-default-eMf {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .enterprise-default-eMf .huge-tab-xt9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .enterprise-default-eMf .huge-tab-xt9 .name-v4H {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .enterprise-default-eMf .huge-tab-xt9 .name-v4H .auto-group-iqdf-Ubb {
+  margin-right: 6.3rem;
+  width: 5.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .enterprise-default-eMf .huge-tab-xt9 .underline-mah {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 5.4rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .enterprise-default-eMf .huge-tab-xt9 .underline-mah .underline-iF3 {
+  width: 11.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-jelajahi-qKf {
+  margin: 0.1rem 4.9rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.8rem 1.6rem;
+  width: 10.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-jelajahi-qKf .huge-tab-jvq {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-jelajahi-qKf .huge-tab-jvq .name-6Fb {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-jelajahi-qKf .huge-tab-jvq .name-6Fb .auto-group-1sok-SaM {
+  margin-right: 0.8rem;
+  width: 6.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-jelajahi-qKf .huge-tab-jvq .name-6Fb .polygon-kb3 {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-jelajahi-qKf .huge-tab-jvq .underline-gzV {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-jelajahi-qKf .huge-tab-jvq .underline-gzV .underline-eAd {
+  width: 14.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-reservasi-zEV {
+  margin-top: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.8rem 0.8rem 1.6rem;
+  width: 12.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-reservasi-zEV .huge-tab-WCq {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-reservasi-zEV .huge-tab-WCq .name-U9f {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-reservasi-zEV .huge-tab-WCq .name-U9f .auto-group-wxpm-dHT {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #eeeeee;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-reservasi-zEV .huge-tab-WCq .name-U9f .polygon-LSm {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-reservasi-zEV .huge-tab-WCq .underline-5fF {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .group-178-DXF .drop-reservasi-zEV .huge-tab-WCq .underline-5fF .underline-qPX {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-MMs {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.8rem;
+  top: 2.3rem;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-MMs .huge-tab-Tvh {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-MMs .huge-tab-Tvh .name-daH {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-MMs .huge-tab-Tvh .name-daH .auto-group-jhcm-akR {
+  margin-right: 2.9rem;
+  width: 8.8rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-MMs .huge-tab-Tvh .underline-tm7 {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 8.8rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-MMs .huge-tab-Tvh .underline-tm7 .underline-Ea5 {
+  width: 14.5rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-nLh {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125rem;
+  top: 2.3rem;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-nLh .huge-tab-hTf {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-nLh .huge-tab-hTf .name-Fzy {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-nLh .huge-tab-hTf .name-Fzy .auto-group-tpkv-d6R {
+  margin-right: 6.8rem;
+  width: 4.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-nLh .huge-tab-hTf .underline-LFj {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 4.9rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-reservasi-pesan-tiket-FMb .enterprise-default-nLh .huge-tab-hTf .underline-LFj .underline-sWZ {
+  width: 10.6rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-reservasi-pesan-tiket-FMb .desain-tanpa-judul202310110538060000-1-1-R2H {
+  width: 13.5rem;
+  height: 8.4rem;
+  position: relative;
+  left: 6.7rem;
+  top: 0;
+  background-size: 147.154% 222.727%;
+  background-position: -3.622rem -5.1545rem;
+  background-image: url('../assets/desain-tanpa-judul202310110538060000-1-1-jY5.png');
+}

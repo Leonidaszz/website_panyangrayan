@@ -1,0 +1,1189 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menu-jelajahi-bukit-u4u {
+  width: 100%;
+  height: 234.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #e4e4e4;
+}
+.menu-jelajahi-bukit-u4u .rectangle-40-neV {
+  width: 144rem;
+  height: 113.7rem;
+  position: absolute;
+  left: 0;
+  top: 83.3rem;
+  background-color: #d9d9d9;
+}
+.menu-jelajahi-bukit-u4u .rectangle-98-WqP {
+  width: 60rem;
+  height: 46rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 139.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-98-bg.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-71-QA5 {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 161.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-100-6Ho {
+  width: 60rem;
+  height: 40rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.2rem;
+  top: 139.3rem;
+  background-color: #ffffff;
+  background-size: 136.933% 104.602%;
+  background-position: -6.6483rem -0.4267rem;
+  background-image: url('../assets/rectangle-100-bg.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-100-6Ho .rectangle-100-6Ho-bg {
+  width: 60rem;
+  height: 40rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:dfa8eb137ed2ede85aa19b921d7791353f32840f');
+}
+.menu-jelajahi-bukit-u4u .rectangle-95-LC9 {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 161.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .area-camping-ground-3cM {
+  width: 31.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.5rem;
+  top: 167.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .area-kafe-99b {
+  width: 13.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 13.3rem;
+  top: 167.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .tidak-perlu-khawatir-ketika-ingin-jajan-di-area-ini--qo7 {
+  width: 45.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 173.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .memiliki-area-camping-ground-yang-sangat-nyaman--Xvq {
+  width: 50.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 173.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .rectangle-92-puw {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 93.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-92-bg.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-99-9SR {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 93.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-99-bg.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-97-55B {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 115.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .area-foto-nVP {
+  width: 13.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.5rem;
+  top: 121.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .area-keluarga-toK {
+  width: 19.9rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 13.3rem;
+  top: 121.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .di-bukit-panyangrayan-ada-area-untuk-keluarga-loh--bxd {
+  width: 48.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 127.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .banyak-spot-foto-di-bukit-panyangrayan--hVs {
+  width: 38.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 127.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .plan-your-visit-c73 {
+  width: 28.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 57.8rem;
+  top: 82.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .rectangle-102-6nu {
+  width: 144rem;
+  height: 118.2rem;
+  position: absolute;
+  left: 0;
+  top: 78.8rem;
+  background-color: #d9d9d9;
+}
+.menu-jelajahi-bukit-u4u .rectangle-103-FA1 {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 139.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-103-bg-Xz9.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-104-NEd {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 161.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-105-tCy {
+  width: 60rem;
+  height: 40rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.2rem;
+  top: 139.3rem;
+  background-color: #ffffff;
+  background-size: 136.933% 104.602%;
+  background-position: -6.6483rem -0.4267rem;
+  background-image: url('../assets/rectangle-105-bg.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-105-tCy .rectangle-105-tCy-bg {
+  width: 60rem;
+  height: 40rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:dfa8eb137ed2ede85aa19b921d7791353f32840f');
+}
+.menu-jelajahi-bukit-u4u .rectangle-106-M6Z {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 161.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .area-camping-ground-4mf {
+  width: 31.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.5rem;
+  top: 167.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .area-kafe-AZo {
+  width: 13.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 13.3rem;
+  top: 167.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .tidak-perlu-khawatir-ketika-ingin-jajan-di-area-ini--Gcq {
+  width: 45.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 173.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .memiliki-area-camping-ground-yang-sangat-nyaman--knu {
+  width: 50.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 173.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .rectangle-107-rL9 {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 93.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-107-bg.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-108-mi1 {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 93.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-108-bg-f13.png');
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .rectangle-109-Vtu {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 115.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-jelajahi-bukit-u4u .area-foto-cid {
+  width: 13.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.5rem;
+  top: 121.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .area-keluarga-79b {
+  width: 19.9rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 13.3rem;
+  top: 121.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .di-bukit-panyangrayan-ada-area-untuk-keluarga-loh--pZo {
+  width: 48.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 127.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .banyak-spot-foto-di-bukit-panyangrayan--ifB {
+  width: 38.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 127.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .beberapa-spot-menarik-di-bukit-panyangrayan-E7j {
+  width: 91.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 26.2rem;
+  top: 84.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .rectangle-388-8iu {
+  width: 145rem;
+  height: 73.3rem;
+  position: absolute;
+  left: 0;
+  top: 6.7rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-388-bg.png');
+}
+.menu-jelajahi-bukit-u4u .jelajahi-bukit-Z3X {
+  width: 38.6rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 52.6rem;
+  top: 40.2rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh {
+  width: 144.3rem;
+  height: 42rem;
+  position: absolute;
+  left: 0;
+  top: 192.2rem;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .rectangle-29-aDX {
+  width: 144.3rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #378635;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .line-11-vHP {
+  width: 130rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 19.9rem;
+  background-color: #ffffff;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .instagram-4-1-4Pb {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .facebook-3-1-b8d {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 13rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .area-kafe-L6D {
+  width: 6.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 30.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .area-keluarga-dLD {
+  width: 10rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 27.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .area-foto-93f {
+  width: 6.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 32.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .camping-ground-rCy {
+  width: 12.2rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 35.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .booking-tiket-Z7P {
+  width: 9.7rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95.5rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .booking-kafe-UEM {
+  width: 9.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95.5rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .foto-nVw {
+  width: 3.2rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 84rem;
+  top: 27.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .video-WRw {
+  width: 4.1rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 84rem;
+  top: 30.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .berita-E73 {
+  width: 4.3rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.7rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .event-kLH {
+  width: 4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.7rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .hotel-eRf {
+  width: 3.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .restoran-xx9 {
+  width: 6.5rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .wisata-5ms {
+  width: 4.8rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 32.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .whatsapp-2-1-C5o {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 18rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 {
+  box-sizing: border-box;
+  padding-left: 0.187rem;
+  width: 47.0796rem;
+  height: 10.2167rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 25.4rem;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-bmt5-SF3 {
+  margin-bottom: 1.202rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-bmt5-SF3 .pin-PAH {
+  margin-right: 1.5618rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-bmt5-SF3 .kecamatan-sukaraja-kabupaten-tasikmalaya-jawa-barat-46183-Wkh {
+  margin-bottom: 0.0399rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-2wqf-QbB {
+  margin: 0rem 18.68rem 1.202rem 0rem;
+  width: calc(100% - 18.6796rem);
+  display: flex;
+  align-items: flex-end;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-2wqf-QbB .email-Ljj {
+  margin-right: 1.5822rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-2wqf-QbB .akbarsaepulrizal120404gmailcom-H9B {
+  margin-bottom: 0.1105rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-n4mp-nrd {
+  margin-right: 31rem;
+  width: calc(100% - 31rem);
+  display: flex;
+  align-items: center;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-n4mp-nrd .phone-call-1-L7T {
+  margin-right: 1.5618rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .group-32-X85 .auto-group-n4mp-nrd .item-62-81510941558-UUZ {
+  margin-bottom: 0.2493rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .jelajahi-bukit-anV {
+  width: 10.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 66.4rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .galeri-t2V {
+  width: 4.6rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 84rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .rekomendasi-C3B {
+  width: 10.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .desain-tanpa-judul202310110538060000-1-1-gyw {
+  width: 26.8rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .informasi-QQ9 {
+  width: 7.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.7rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-210-Teh .reservasi-7JZ {
+  width: 7.3rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95.5rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs {
+  box-sizing: border-box;
+  padding: 2.5rem 38.1rem 1rem 56.87rem;
+  width: 145.2rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.62deg, #5fc789 41.36%, #8adf48 83.59%);
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .rectangle-99-7hs {
+  margin: 0rem 2.163rem 0.414rem 0rem;
+  width: 8.0667rem;
+  height: 2.2941rem;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .huge-tab-EnV {
+  margin: 0.7rem 0rem 0.9rem 0rem;
+  width: 11.7rem;
+  height: calc(100% - 1.6rem);
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .huge-tab-EnV .name-N81 {
+  width: 100%;
+  height: 2.6rem;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .huge-tab-EnV .name-N81 .auto-group-zyfp-XWh {
+  margin-right: 6.3rem;
+  width: 5.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .huge-tab-EnV .underline-2yF {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 5.4rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .huge-tab-EnV .underline-2yF .underline-ytV {
+  width: 11.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-jelajahi-7zh {
+  margin-right: 4.9rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.8rem 1.6rem;
+  width: 10.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-jelajahi-7zh .huge-tab-F5K {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-jelajahi-7zh .huge-tab-F5K .name-zob {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-jelajahi-7zh .huge-tab-F5K .name-zob .auto-group-8cm7-MPF {
+  margin-right: 0.8rem;
+  width: 6.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #eeeeee;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-jelajahi-7zh .huge-tab-F5K .name-zob .polygon-edF {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-jelajahi-7zh .huge-tab-F5K .underline-zSD {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-jelajahi-7zh .huge-tab-F5K .underline-zSD .underline-jub {
+  width: 14.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-reservasi-HRK {
+  box-sizing: border-box;
+  padding: 0.8rem 0.8rem 0.8rem 1.6rem;
+  width: 12.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-reservasi-HRK .huge-tab-cTb {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-reservasi-HRK .huge-tab-cTb .name-a9X {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-reservasi-HRK .huge-tab-cTb .name-a9X .auto-group-bgxb-wEy {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-reservasi-HRK .huge-tab-cTb .name-a9X .polygon-44h {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-reservasi-HRK .huge-tab-cTb .underline-QeM {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .group-178-pTs .drop-reservasi-HRK .huge-tab-cTb .underline-QeM .underline-A7j {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-GRf {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.8rem;
+  top: 2.3rem;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-GRf .huge-tab-BYd {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-GRf .huge-tab-BYd .name-LwK {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-GRf .huge-tab-BYd .name-LwK .auto-group-yrkb-JdF {
+  margin-right: 2.9rem;
+  width: 8.8rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-GRf .huge-tab-BYd .underline-1Xf {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 8.8rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-GRf .huge-tab-BYd .underline-1Xf .underline-kVF {
+  width: 14.5rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-6Z7 {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125rem;
+  top: 2.3rem;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-6Z7 .huge-tab-cGZ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-6Z7 .huge-tab-cGZ .name-B4m {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-6Z7 .huge-tab-cGZ .name-B4m .auto-group-wxgd-jc5 {
+  margin-right: 6.8rem;
+  width: 4.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-6Z7 .huge-tab-cGZ .underline-SWV {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 4.9rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-jelajahi-bukit-u4u .enterprise-default-6Z7 .huge-tab-cGZ .underline-SWV .underline-gvd {
+  width: 10.6rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-jelajahi-bukit-u4u .desain-tanpa-judul202310110538060000-1-1-pG9 {
+  width: 13.5rem;
+  height: 8.4rem;
+  position: relative;
+  left: 6.7rem;
+  top: 0;
+  background-size: 147.154% 222.727%;
+  background-position: -3.622rem -5.1545rem;
+  background-image: url('../assets/desain-tanpa-judul202310110538060000-1-1-Bzy.png');
+}

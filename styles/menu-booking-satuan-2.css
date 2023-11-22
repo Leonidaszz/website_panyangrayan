@@ -1,0 +1,988 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menu-booking-satuan-2-dER {
+  width: 100%;
+  height: 165.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #e4e4e4;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 {
+  width: 336.2rem;
+  height: 125.5rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 34rem;
+  border-left: solid 0.05rem rgba(0, 0, 0, 0.400000006);
+  box-sizing: border-box;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 {
+  width: 101.8rem;
+  height: 100%;
+  position: relative;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey {
+  width: 60rem;
+  height: 8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 20.9rem;
+  top: 74.5rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf {
+  box-sizing: border-box;
+  padding-left: 3.0909rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem rgba(0, 0, 0, 0.400000006);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf .auto-group-fx69-tJm {
+  box-sizing: border-box;
+  padding: 1.5rem 2.118rem 1.499rem 1.609rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf .auto-group-fx69-tJm .iconhomepage-03-2-CqF {
+  width: 5rem;
+  height: 5.0006rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf .auto-group-j1n1-8yo {
+  box-sizing: border-box;
+  padding: 1.5rem 3.273rem 1.3rem 3.091rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf .auto-group-j1n1-8yo .auto-group-wh5k-ehF {
+  margin-right: 26.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf .auto-group-j1n1-8yo .auto-group-wh5k-ehF .bayar-langsung-Cim {
+  margin-bottom: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf .auto-group-j1n1-8yo .auto-group-wh5k-ehF .tunai-ke-bendahara-pak-marjito-K2h {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-17-1Ey .group-57-jwf .auto-group-j1n1-8yo .group-29-RbX {
+  margin-bottom: 0.0333rem;
+  width: 3.8182rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH {
+  width: 60rem;
+  height: 8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 20.9rem;
+  top: 65.5rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P {
+  box-sizing: border-box;
+  padding-left: 3.0909rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem rgba(0, 0, 0, 0.400000006);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P .auto-group-zcrv-GVf {
+  box-sizing: border-box;
+  padding: 1.7rem 2.118rem 1.264rem 1.609rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P .auto-group-zcrv-GVf .iconhomepage-03-2-Qrm {
+  width: 5rem;
+  height: 5.0356rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P .auto-group-htzd-x7b {
+  box-sizing: border-box;
+  padding: 1.5rem 3.273rem 1.3rem 3.091rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P .auto-group-htzd-x7b .auto-group-bxam-VdK {
+  margin-right: 19.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P .auto-group-htzd-x7b .auto-group-bxam-VdK .bayar-langsung-FMb {
+  margin-bottom: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P .auto-group-htzd-x7b .auto-group-bxam-VdK .tunai-ke-bendahara-pak-marjito-Xa1 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-16-5AH .group-55-N9P .auto-group-htzd-x7b .group-29-r6V {
+  margin-bottom: 0.0333rem;
+  width: 3.8182rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 {
+  width: 60rem;
+  height: 8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 20.9rem;
+  top: 56.5rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD {
+  box-sizing: border-box;
+  padding-left: 3.0909rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem rgba(0, 0, 0, 0.400000006);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD .auto-group-bhay-Zf7 {
+  box-sizing: border-box;
+  padding: 1.9rem 1.918rem 1.571rem 1.809rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD .auto-group-bhay-Zf7 .ovo-1-1-Un5 {
+  width: 5rem;
+  height: 4.5289rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD .auto-group-5cnd-RhK {
+  box-sizing: border-box;
+  padding: 1.5rem 3.273rem 1.3rem 3.091rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD .auto-group-5cnd-RhK .auto-group-g3kd-ve5 {
+  margin-right: 23.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD .auto-group-5cnd-RhK .auto-group-g3kd-ve5 .bayar-langsung-gNM {
+  margin-bottom: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD .auto-group-5cnd-RhK .auto-group-g3kd-ve5 .tunai-ke-bendahara-pak-marjito-19j {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  letter-spacing: 0.15rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-15-WB3 .group-56-qUD .auto-group-5cnd-RhK .group-29-w3P {
+  margin-bottom: 0.0333rem;
+  width: 3.8182rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 {
+  width: 60rem;
+  height: 8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 20.9rem;
+  top: 47.5rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj {
+  box-sizing: border-box;
+  padding-left: 3.0909rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem rgba(0, 0, 0, 0.400000006);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj .auto-group-wqjb-f7o {
+  box-sizing: border-box;
+  padding: 1.5rem 1.918rem 1.499rem 1.809rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj .auto-group-wqjb-f7o .iconhomepage-03-3-Q5P {
+  width: 5rem;
+  height: 5.0006rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj .auto-group-jhyb-h4V {
+  box-sizing: border-box;
+  padding: 1.5rem 3.273rem 1.3rem 3.091rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj .auto-group-jhyb-h4V .auto-group-yzcv-QUh {
+  margin-right: 23.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj .auto-group-jhyb-h4V .auto-group-yzcv-QUh .bayar-langsung-ACy {
+  margin-bottom: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj .auto-group-jhyb-h4V .auto-group-yzcv-QUh .tunai-ke-bendahara-pak-marjito-H2h {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  letter-spacing: 0.15rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .component-14-Pg5 .group-54-KZj .auto-group-jhyb-h4V .group-29-Zku {
+  margin-bottom: 0.0333rem;
+  width: 3.8182rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-66-pwj {
+  width: 59.1rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 21.3rem;
+  top: 38.8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.6rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-66-pwj .group-63-ZuK {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-66-pwj .group-63-ZuK .group-62-8xR {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8adf48;
+  border-radius: 0.6rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh {
+  width: 97.3rem;
+  height: 30rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.2rem;
+  top: 89.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-71-625 {
+  width: 100%;
+  height: 5.6109rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-71-625 .group-63-eZP {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-71-625 .group-63-eZP .group-62-nfb {
+  box-sizing: border-box;
+  padding: 1.746rem 3rem 1.365rem 3rem;
+  width: 100%;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #8adf48;
+  border-radius: 0.6rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP {
+  margin-bottom: 3.4418rem;
+  width: 100%;
+  height: 16.5833rem;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B {
+  box-sizing: border-box;
+  padding: 2.494rem 4.161rem 3.09rem 3rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #8adf48;
+  border-radius: 0.6rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .harga-tiket-jumlah-tiket-biaya-layanan-total-pembayaran-Br9 {
+  margin-right: 65.3394rem;
+  max-width: 16.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2189999686;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .harga-tiket-jumlah-tiket-biaya-layanan-total-pembayaran-Br9 .harga-tiket-jumlah-tiket-biaya-layanan-total-pembayaran-Br9-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .harga-tiket-jumlah-tiket-biaya-layanan-total-pembayaran-Br9 .harga-tiket-jumlah-tiket-biaya-layanan-total-pembayaran-Br9-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .rp15000-3pcs-rp1000-rp16000-MGm {
+  max-width: 8.3rem;
+  text-align: right;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .rp15000-3pcs-rp1000-rp16000-MGm .rp15000-3pcs-rp1000-rp16000-MGm-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .rp15000-3pcs-rp1000-rp16000-MGm .rp15000-3pcs-rp1000-rp16000-MGm-sub-1 {
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .rp15000-3pcs-rp1000-rp16000-MGm .rp15000-3pcs-rp1000-rp16000-MGm-sub-2 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .rp15000-3pcs-rp1000-rp16000-MGm .rp15000-3pcs-rp1000-rp16000-MGm-sub-3 {
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .rp15000-3pcs-rp1000-rp16000-MGm .rp15000-3pcs-rp1000-rp16000-MGm-sub-4 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-72-7bP .group-63-URw .group-62-r3B .rp15000-3pcs-rp1000-rp16000-MGm .rp15000-3pcs-rp1000-rp16000-MGm-sub-5 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-204-6GH {
+  margin: 0rem 39.676rem 0rem 39.7rem;
+  width: calc(100% - 79.3758rem);
+  height: 4.364rem;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-204-6GH .group-68-yL5 {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.7rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-204-6GH .group-68-yL5 .group-63-8yf {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.7rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-205-mEh .group-204-6GH .group-68-yL5 .group-63-8yf .group-62-JdF {
+  width: 100%;
+  height: 100%;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8adf48;
+  border-radius: 0.7rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws {
+  width: 97.3rem;
+  height: 29.9rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 2.1rem;
+  border-radius: 0.7rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 26.4rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.7rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.7rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #8adf48;
+  border-radius: 0.7rem;
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj {
+  width: 33.3rem;
+  height: 16.1rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 3.1rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj-sub-1 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj-sub-2 {
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj-sub-3 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj-sub-4 {
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj .informasi-pemesanan-nama-email-no-hp-tanggal-kunjungan-jumlah-tiket-Wsj-sub-5 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .anthonio-asep-jackson-anthoniogmailcom-085727987332-30-01-2023-3-ncH {
+  width: 29.6rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 32.1rem;
+  top: 6.5rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .anthonio-asep-jackson-anthoniogmailcom-085727987332-30-01-2023-3-ncH .anthonio-asep-jackson-anthoniogmailcom-085727987332-30-01-2023-3-ncH-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.menu-booking-satuan-2-dER .auto-group-ed7f-Z85 .auto-group-g5v3-fB7 .group-217-iws .group-65-fcD .group-63-d3F .group-62-ZxV .anthonio-asep-jackson-anthoniogmailcom-085727987332-30-01-2023-3-ncH .anthonio-asep-jackson-anthoniogmailcom-085727987332-30-01-2023-3-ncH-sub-1 {
+}
+.menu-booking-satuan-2-dER .line-1-bTF {
+  width: 144rem;
+  height: 0.05rem;
+  position: absolute;
+  left: 0;
+  top: 31.6rem;
+  background-color: rgba(0, 0, 0, 0.400000006);
+}
+.menu-booking-satuan-2-dER .auto-group-gltq-w1K {
+  width: 47.1rem;
+  height: 83.5333rem;
+  position: absolute;
+  left: 48.4rem;
+  top: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-gltq-w1K .pembayaran-tiket-gDo {
+  width: 35rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 17.1rem;
+  text-align: right;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #2e3a59;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-booking-satuan-2-dER .auto-group-gltq-w1K .group-150-xh7 {
+  width: 12.5rem;
+  height: 83.5333rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-satuan-2-dER .auto-group-gltq-w1K .group-150-xh7 .ellipse-6-HUV {
+  margin-bottom: 63.5333rem;
+  width: 100%;
+  height: 12.5rem;
+  background-color: rgba(214, 173, 96, 0.6000000238);
+  border-radius: 6.25rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .auto-group-gltq-w1K .group-150-xh7 .booking-1-2S5 {
+  width: 7.5rem;
+  height: 7.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB {
+  box-sizing: border-box;
+  padding: 2.4rem 38.1rem 1rem 56.87rem;
+  width: 145.2rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.62deg, #5fc789 41.36%, #8adf48 83.59%);
+}
+.menu-booking-satuan-2-dER .group-178-AoB .rectangle-99-UYy {
+  margin: 0rem 0.563rem 0.536rem 0rem;
+  width: 8.0667rem;
+  height: 2.2353rem;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .enterprise-default-CUy {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .enterprise-default-CUy .huge-tab-X1T {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .enterprise-default-CUy .huge-tab-X1T .name-HFX {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .enterprise-default-CUy .huge-tab-X1T .name-HFX .auto-group-fw21-cob {
+  margin-right: 6.3rem;
+  width: 5.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .enterprise-default-CUy .huge-tab-X1T .underline-KCD {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 5.4rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .enterprise-default-CUy .huge-tab-X1T .underline-KCD .underline-f1B {
+  width: 11.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-jelajahi-o7P {
+  margin: 0.1rem 4.9rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.8rem 1.6rem;
+  width: 10.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-jelajahi-o7P .huge-tab-HHT {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-jelajahi-o7P .huge-tab-HHT .name-eNu {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-jelajahi-o7P .huge-tab-HHT .name-eNu .auto-group-ayxm-miR {
+  margin-right: 0.8rem;
+  width: 6.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-jelajahi-o7P .huge-tab-HHT .name-eNu .polygon-SZf {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-jelajahi-o7P .huge-tab-HHT .underline-kqF {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-jelajahi-o7P .huge-tab-HHT .underline-kqF .underline-fSR {
+  width: 14.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-reservasi-ooX {
+  margin-top: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.8rem 0.8rem 1.6rem;
+  width: 12.7rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-reservasi-ooX .huge-tab-XzR {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-reservasi-ooX .huge-tab-XzR .name-sYV {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-reservasi-ooX .huge-tab-XzR .name-sYV .auto-group-g3xd-EP3 {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #eeeeee;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-reservasi-ooX .huge-tab-XzR .name-sYV .polygon-9F7 {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-reservasi-ooX .huge-tab-XzR .underline-UYH {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .group-178-AoB .drop-reservasi-ooX .huge-tab-XzR .underline-UYH .underline-1HK {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-satuan-2-dER .enterprise-default-7r9 {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.8rem;
+  top: 2.3rem;
+}
+.menu-booking-satuan-2-dER .enterprise-default-7r9 .huge-tab-QqF {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-satuan-2-dER .enterprise-default-7r9 .huge-tab-QqF .name-Zy3 {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .enterprise-default-7r9 .huge-tab-QqF .name-Zy3 .auto-group-zc89-LU1 {
+  margin-right: 2.9rem;
+  width: 8.8rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-booking-satuan-2-dER .enterprise-default-7r9 .huge-tab-QqF .underline-pty {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 8.8rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .enterprise-default-7r9 .huge-tab-QqF .underline-pty .underline-aNM {
+  width: 14.5rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-satuan-2-dER .enterprise-default-vh7 {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125rem;
+  top: 2.3rem;
+}
+.menu-booking-satuan-2-dER .enterprise-default-vh7 .huge-tab-mBw {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-booking-satuan-2-dER .enterprise-default-vh7 .huge-tab-mBw .name-3QM {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .enterprise-default-vh7 .huge-tab-mBw .name-3QM .auto-group-2vxd-Co3 {
+  margin-right: 6.8rem;
+  width: 4.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-booking-satuan-2-dER .enterprise-default-vh7 .huge-tab-mBw .underline-s8V {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 4.9rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-booking-satuan-2-dER .enterprise-default-vh7 .huge-tab-mBw .underline-s8V .underline-1kV {
+  width: 10.6rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-booking-satuan-2-dER .desain-tanpa-judul202310110538060000-1-1-ZGD {
+  width: 13.5rem;
+  height: 8.4rem;
+  position: relative;
+  left: 6.7rem;
+  top: 0;
+  background-size: 147.154% 222.727%;
+  background-position: -3.622rem -5.1545rem;
+  background-image: url('../assets/desain-tanpa-judul202310110538060000-1-1-YxZ.png');
+}

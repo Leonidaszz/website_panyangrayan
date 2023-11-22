@@ -1,0 +1,298 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.7rem;
+}.drop-reservasi-V3F {
+  box-sizing: border-box;
+  padding: 2rem 14.3rem 40.7rem 13.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #7b61ff;
+  border-radius: 0.5rem;
+}
+.drop-reservasi-V3F .property-1default-QR7 {
+  margin: 0rem 0.1rem 1.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 3rem 0.8rem 1.6rem;
+  width: 14.9rem;
+  height: 4.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1default-QR7 .huge-tab-JmP {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-reservasi-V3F .property-1default-QR7 .huge-tab-JmP .name-GCR {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1default-QR7 .huge-tab-JmP .name-GCR .auto-group-jrfk-DdT {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1default-QR7 .huge-tab-JmP .name-GCR .polygon-7Tw {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1default-QR7 .huge-tab-JmP .underline-4PB {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1default-QR7 .huge-tab-JmP .underline-4PB .underline-1ZK {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-reservasi-V3F .property-1variant2-kWu {
+  width: 100%;
+  height: 15.7rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .huge-tab-WFB {
+  width: 10.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .huge-tab-WFB .name-Egy {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .huge-tab-WFB .name-Egy .auto-group-cvqh-bXX {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .huge-tab-WFB .name-Egy .polygon-uHK {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .huge-tab-WFB .underline-38d {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .huge-tab-WFB .underline-38d .underline-C1X {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB {
+  box-sizing: border-box;
+  padding: 1.2rem 1.2rem 0rem 1.2rem;
+  width: 16.7rem;
+  height: 23.7rem;
+  position: absolute;
+  left: -0.6rem;
+  top: 3.4rem;
+  border: solid 0.3rem #000000;
+  background-color: #ffffff;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-1Um {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-1Um .tab-name-khF {
+  margin-right: 0.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-1Um .underline-gL1 {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-1Um .underline-gL1 .underline-ph7 {
+  width: 16.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-mcM {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 12.2rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-mcM .tab-name-WZw {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-mcM .underline-45f {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-mcM .underline-45f .underline-oow {
+  width: 14.7rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-xRw {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 10.5rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-xRw .tab-name-JEu {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-xRw .underline-2wb {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-xRw .underline-2wb .underline-yrq {
+  width: 13rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-8Dw {
+  box-sizing: border-box;
+  padding: 3.4rem 1.6rem 0.8rem 1.6rem;
+  width: 3.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-8Dw .underline-G5F {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-8Dw .underline-G5F .underline-cuo {
+  width: 5.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-yVT {
+  box-sizing: border-box;
+  padding: 3.4rem 1.6rem 0.8rem 1.6rem;
+  width: 3.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-yVT .underline-WVP {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.drop-reservasi-V3F .property-1variant2-kWu .company-7uB .minimal-tab-yVT .underline-WVP .underline-52h {
+  width: 5.8rem;
+  height: 0.3rem;
+  background-color: #000000;
+}

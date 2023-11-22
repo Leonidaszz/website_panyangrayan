@@ -1,0 +1,1308 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menu-galeri-WA5 {
+  width: 100%;
+  height: 352.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #e4e4e4;
+}
+.menu-galeri-WA5 .rectangle-40-eQh {
+  width: 144rem;
+  height: 113.7rem;
+  position: absolute;
+  left: 0;
+  top: 76.4rem;
+  background-color: #d9d9d9;
+}
+.menu-galeri-WA5 .rectangle-71-a3T {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 160.4rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-100-4jK {
+  width: 60rem;
+  height: 40rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.5rem;
+  top: 138.4rem;
+  background-color: #ffffff;
+  background-size: 136.933% 104.602%;
+  background-position: -6.6483rem -0.4267rem;
+  background-image: url('../assets/rectangle-100-bg-bXX.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-100-4jK .rectangle-100-4jK-bg {
+  width: 60rem;
+  height: 40rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:dfa8eb137ed2ede85aa19b921d7791353f32840f');
+}
+.menu-galeri-WA5 .rectangle-95-JtZ {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 160.4rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .area-camping-ground-1ny {
+  width: 31.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.8rem;
+  top: 167rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .area-kafe-hfo {
+  width: 13.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 13.6rem;
+  top: 167rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .tidak-perlu-khawatir-ketika-ingin-jajan-di-area-ini--oTw {
+  width: 45.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 172.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .memiliki-area-camping-ground-yang-sangat-nyaman--UKB {
+  width: 50.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 78.1rem;
+  top: 172.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .rectangle-92-MNy {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 92.4rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-92-bg-riM.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-99-4oB {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 92.4rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-99-bg-ovq.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-97-PaZ {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 114.4rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .area-foto-JhX {
+  width: 13.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.8rem;
+  top: 121rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .area-keluarga-R1T {
+  width: 19.9rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 13.6rem;
+  top: 121rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .di-bukit-panyangrayan-ada-area-untuk-keluarga-loh--KsX {
+  width: 48.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 126.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .banyak-spot-foto-di-bukit-panyangrayan--2G9 {
+  width: 38.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 78.1rem;
+  top: 126.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .plan-your-visit-QXb {
+  width: 28.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 81.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-215-7gu {
+  box-sizing: border-box;
+  padding: 0rem 36.85rem 2.28rem 36.85rem;
+  width: 120rem;
+  height: 94.0621rem;
+  position: absolute;
+  left: 12rem;
+  top: 5.6121rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .group-215-7gu .group-178-DE9 {
+  margin: 0rem 23.393rem 83.775rem 0rem;
+  width: 8.0667rem;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-215-7gu .group-178-DE9 .rectangle-99-kUy {
+  width: 100%;
+  height: 3.8069rem;
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .group-215-7gu .mari-jelajahi-bukit-panyangrayan-tr5 {
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0333rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .rectangle-102-BqB {
+  width: 144rem;
+  height: 234.3rem;
+  position: absolute;
+  left: 0;
+  top: 76.4rem;
+  background-color: #d9d9d9;
+}
+.menu-galeri-WA5 .rectangle-103-jLu {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 138.4rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-103-bg-oN1.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-105-Fq3 {
+  width: 60rem;
+  height: 40rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.5rem;
+  top: 138.4rem;
+  background-color: #ffffff;
+  background-size: 136.933% 104.602%;
+  background-position: -6.6483rem -0.4267rem;
+  background-image: url('../assets/rectangle-105-bg-uQu.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-105-Fq3 .rectangle-105-Fq3-bg {
+  width: 60rem;
+  height: 40rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:dfa8eb137ed2ede85aa19b921d7791353f32840f');
+}
+.menu-galeri-WA5 .rectangle-107-XGm {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 92.4rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-107-bg-u5K.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-108-qoF {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 92.4rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-108-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .see-all-AKj {
+  width: 10.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 123.5rem;
+  top: 180.5rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #bc2b1c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .see-all-sE9 {
+  width: 10.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 123.4rem;
+  top: 291.8rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.0333rem;
+  color: #bc2b1c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .foto-yny {
+  width: 8.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 67.7rem;
+  top: 84.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .rectangle-112-gxH {
+  width: 60rem;
+  height: 40rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.5rem;
+  top: 249.3rem;
+  background-color: #ffffff;
+  background-size: 136.933% 104.602%;
+  background-position: -6.6483rem -0.4267rem;
+  background-image: url('../assets/rectangle-112-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-112-gxH .rectangle-112-gxH-bg {
+  width: 60rem;
+  height: 40rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:dfa8eb137ed2ede85aa19b921d7791353f32840f');
+}
+.menu-galeri-WA5 .rectangle-113-ZWH {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 203.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-113-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-114-toT {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 203.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-114-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-115-dW9 {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 225.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .area-foto-wmj {
+  width: 13.6rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 77.8rem;
+  top: 231.9rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: -0.039rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .di-bukit-panyangrayan-ada-area-untuk-keluarga-loh--FGd {
+  width: 48.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 237.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .banyak-spot-foto-di-bukit-panyangrayan--8rD {
+  width: 38.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 78.1rem;
+  top: 237.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .rectangle-117-eJm {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 249.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-117-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-118-NEm {
+  width: 60rem;
+  height: 40rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.5rem;
+  top: 249.3rem;
+  background-color: #ffffff;
+  background-size: 136.933% 104.602%;
+  background-position: -6.6483rem -0.4267rem;
+  background-image: url('../assets/rectangle-118-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-118-NEm .rectangle-118-NEm-bg {
+  width: 60rem;
+  height: 40rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:dfa8eb137ed2ede85aa19b921d7791353f32840f');
+}
+.menu-galeri-WA5 .rectangle-119-r9w {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 203.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-119-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-120-BCD {
+  width: 60rem;
+  height: 40rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 203.3rem;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-120-bg.png');
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .rectangle-121-hwF {
+  width: 60rem;
+  height: 18rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 225.3rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.5799999833) 89.06%);
+  border-radius: 2rem;
+}
+.menu-galeri-WA5 .video-Deh {
+  width: 11.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 67.7rem;
+  top: 193.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .desain-tanpa-judul-4-1-8mf {
+  width: 42.4rem;
+  height: 40rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 203.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .desain-tanpa-judul-4-2-4fK {
+  width: 42.4rem;
+  height: 40rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 249.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .desain-tanpa-judul-4-3-CFj {
+  width: 42.4rem;
+  height: 40rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 202.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .desain-tanpa-judul-4-4-XYu {
+  width: 42.4rem;
+  height: 40rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 251.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .rectangle-388-4Hw {
+  width: 145rem;
+  height: 73.3rem;
+  position: absolute;
+  left: 0;
+  top: 6.7rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-388-bg-eRF.png');
+}
+.menu-galeri-WA5 .galeri-bHs {
+  width: 17.5rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 63.15rem;
+  top: 40.2rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh {
+  width: 144.3rem;
+  height: 42rem;
+  position: absolute;
+  left: 0;
+  top: 310.1rem;
+}
+.menu-galeri-WA5 .group-210-hrh .rectangle-29-DKF {
+  width: 144.3rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #378635;
+}
+.menu-galeri-WA5 .group-210-hrh .line-11-9ih {
+  width: 130rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 19.9rem;
+  background-color: #ffffff;
+}
+.menu-galeri-WA5 .group-210-hrh .instagram-4-1-gid {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .group-210-hrh .facebook-3-1-Q8q {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 13rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .group-210-hrh .area-kafe-w8m {
+  width: 6.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 30.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .area-keluarga-qV3 {
+  width: 10rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 27.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .area-foto-kM7 {
+  width: 6.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 32.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .camping-ground-fDB {
+  width: 12.2rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 35.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .booking-tiket-yUm {
+  width: 9.7rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95.5rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .booking-kafe-tLq {
+  width: 9.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95.5rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .foto-oTo {
+  width: 3.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 84rem;
+  top: 27.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .video-8W5 {
+  width: 4.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 84rem;
+  top: 30.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .berita-FKo {
+  width: 4.3rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.7rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .event-mow {
+  width: 4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.7rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .hotel-hhb {
+  width: 3.9rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 27.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .restoran-R7o {
+  width: 6.5rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 30.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .wisata-YTK {
+  width: 4.8rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 32.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .whatsapp-2-1-TaH {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 18rem;
+  top: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 {
+  box-sizing: border-box;
+  padding-left: 0.187rem;
+  width: 47.0796rem;
+  height: 10.2167rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 25.4rem;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-hclr-bK7 {
+  margin-bottom: 1.2019rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-hclr-bK7 .pin-XTf {
+  margin-right: 1.5618rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-hclr-bK7 .kecamatan-sukaraja-kabupaten-tasikmalaya-jawa-barat-46183-U81 {
+  margin-bottom: 0.0399rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-hwj1-NDP {
+  margin: 0rem 18.68rem 1.202rem 0rem;
+  width: calc(100% - 18.6796rem);
+  display: flex;
+  align-items: flex-end;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-hwj1-NDP .email-hFf {
+  margin-right: 1.5822rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-hwj1-NDP .akbarsaepulrizal120404gmailcom-2oj {
+  margin-bottom: 0.1105rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-ygmp-Yn5 {
+  margin-right: 31rem;
+  width: calc(100% - 31rem);
+  display: flex;
+  align-items: center;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-ygmp-Yn5 .phone-call-1-VxD {
+  margin-right: 1.5618rem;
+  width: 2.4308rem;
+  height: 2.6043rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-210-hrh .group-32-oe9 .auto-group-ygmp-Yn5 .item-62-81510941558-e4R {
+  margin-bottom: 0.2493rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: -0.0333rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-210-hrh .jelajahi-bukit-k7T {
+  width: 10.2rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.4rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .galeri-eCq {
+  width: 4.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 84rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .rekomendasi-wxd {
+  width: 10.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 122.5rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .desain-tanpa-judul202310110538060000-1-1-4GZ {
+  width: 26.8rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.menu-galeri-WA5 .group-210-hrh .informasi-y8d {
+  width: 7.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 109.7rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-210-hrh .reservasi-5xM {
+  width: 7.3rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95.5rem;
+  top: 25.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-galeri-WA5 .group-178-C1P {
+  box-sizing: border-box;
+  padding: 2.5rem 38.1rem 1rem 56.87rem;
+  width: 145.2rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.62deg, #5fc789 41.36%, #8adf48 83.59%);
+}
+.menu-galeri-WA5 .group-178-C1P .rectangle-99-hTw {
+  margin: 0rem 2.163rem 0.636rem 0rem;
+  width: 8.0667rem;
+  height: 2.2353rem;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .huge-tab-2FK {
+  margin: 0.7rem 0rem 0.9rem 0rem;
+  width: 11.7rem;
+  height: calc(100% - 1.6rem);
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .huge-tab-2FK .name-wt5 {
+  width: 100%;
+  height: 2.6rem;
+}
+.menu-galeri-WA5 .group-178-C1P .huge-tab-2FK .name-wt5 .auto-group-qeem-hcM {
+  margin-right: 6.3rem;
+  width: 5.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-galeri-WA5 .group-178-C1P .huge-tab-2FK .underline-Pzy {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 5.4rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+}
+.menu-galeri-WA5 .group-178-C1P .huge-tab-2FK .underline-Pzy .underline-wFo {
+  width: 11.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-jelajahi-UmX {
+  margin-right: 4.9rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.8rem 1.6rem;
+  width: 10.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-jelajahi-UmX .huge-tab-o37 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-jelajahi-UmX .huge-tab-o37 .name-MKX {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-jelajahi-UmX .huge-tab-o37 .name-MKX .auto-group-s4x3-7Jh {
+  margin-right: 0.8rem;
+  width: 6.7rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #eeeeee;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-jelajahi-UmX .huge-tab-o37 .name-MKX .polygon-DsX {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-jelajahi-UmX .huge-tab-o37 .underline-X7X {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-jelajahi-UmX .huge-tab-o37 .underline-X7X .underline-fjX {
+  width: 14.1rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-reservasi-cPs {
+  box-sizing: border-box;
+  padding: 0.8rem 0.8rem 0.8rem 1.6rem;
+  width: 12.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-reservasi-cPs .huge-tab-iho {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-reservasi-cPs .huge-tab-iho .name-GzD {
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-reservasi-cPs .huge-tab-iho .name-GzD .auto-group-fx6d-q1j {
+  margin-right: 0.8rem;
+  width: 8.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-reservasi-cPs .huge-tab-iho .name-GzD .polygon-Wdf {
+  width: 0.9rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-reservasi-cPs .huge-tab-iho .underline-G73 {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .group-178-C1P .drop-reservasi-cPs .huge-tab-iho .underline-G73 .underline-1qK {
+  width: 16rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-galeri-WA5 .enterprise-default-77f {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.8rem;
+  top: 2.3rem;
+}
+.menu-galeri-WA5 .enterprise-default-77f .huge-tab-1yj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-galeri-WA5 .enterprise-default-77f .huge-tab-1yj .name-aG9 {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .enterprise-default-77f .huge-tab-1yj .name-aG9 .auto-group-vik1-vau {
+  margin-right: 2.9rem;
+  width: 8.8rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-galeri-WA5 .enterprise-default-77f .huge-tab-1yj .underline-2tq {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 8.8rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .enterprise-default-77f .huge-tab-1yj .underline-2tq .underline-mrR {
+  width: 14.5rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-galeri-WA5 .enterprise-default-uxd {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 1.6rem;
+  width: 13.3rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125rem;
+  top: 2.3rem;
+}
+.menu-galeri-WA5 .enterprise-default-uxd .huge-tab-EED {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.menu-galeri-WA5 .enterprise-default-uxd .huge-tab-EED .name-Pcu {
+  width: 100%;
+  height: 2.6rem;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .enterprise-default-uxd .huge-tab-EED .name-Pcu .auto-group-xbdb-kTT {
+  margin-right: 6.8rem;
+  width: 4.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.4000000424;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.menu-galeri-WA5 .enterprise-default-uxd .huge-tab-EED .underline-dn9 {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 4.9rem;
+  height: 0.3rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-galeri-WA5 .enterprise-default-uxd .huge-tab-EED .underline-dn9 .underline-BYm {
+  width: 10.6rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.menu-galeri-WA5 .desain-tanpa-judul202310110538060000-1-1-Xcd {
+  width: 13.5rem;
+  height: 8.4rem;
+  position: relative;
+  left: 6.7rem;
+  top: 0;
+  background-size: 147.154% 222.727%;
+  background-position: -3.622rem -5.1545rem;
+  background-image: url('../assets/desain-tanpa-judul202310110538060000-1-1-P5K.png');
+}
